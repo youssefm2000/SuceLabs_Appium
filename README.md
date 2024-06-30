@@ -25,12 +25,14 @@
 
 ### 🚀 Running Tests:
  * to execute test case:
+1. Start appium server: `appium` 
+2. start android emulator
  * `Open The Project in intelliJ `
  * `Go to TestNG.xml `
  * `Right Click and Select Debug `
    
  * to execute tests with report:
- * ` allure serve allure-results '
+  * `allure serve allure-results `
 ### 🚀 For Watching Running Test Cases:
    https://www.youtube.com/watch?v=KewV3nd__MY
 
